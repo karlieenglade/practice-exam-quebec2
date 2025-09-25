@@ -70,6 +70,7 @@ const purchases = [
 ];
 
 
+
 // #1 // 
 function getNumberEntries(object){
   
@@ -83,16 +84,15 @@ const addKeyValuePairs = (object, additions) => {
 };
 
 
-// #3 //
 const filterByPrice = (array, price) => {
   
 };
 
 
-// #4 //
 const mapPurchases = (array) => {
-  
+
 };
+
 
 
 // #5 //
@@ -112,4 +112,10 @@ const findProduct = (array, product, output=[]) => {
 const filterByReviewLength = (array) => {
   
 };
+
+
+
+
+
+
 
