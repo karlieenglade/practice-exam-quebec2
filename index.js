@@ -69,39 +69,47 @@ const purchases = [
   }
 ];
 
+
 // #1 // 
-const getNumberEntries = (object) => {
+function getNumberEntries(object){
   
-};
+}
+
+
 
 // #2 // 
 const addKeyValuePairs = (object, additions) => {
-  
+ 
 };
+
 
 // #3 //
 const filterByPrice = (array, price) => {
-
+  
 };
+
 
 // #4 //
 const mapPurchases = (array) => {
   
 };
 
+
 // #5 //
 const accumulateString = (array) => {
   
 };
 
+
 // #6 //
-const findProduct = (array, product) => {
+const findProduct = (array, product, output=[]) => {
   
 };
+
+
 
 // #7 //
 const filterByReviewLength = (array) => {
   
 };
-
 
